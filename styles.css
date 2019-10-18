@@ -1,0 +1,17 @@
+body
+{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+/* #idea-label, #idea-txt {
+    display: inline;
+} */
+
+
+
+#find-btn {
+    display: block;
+    margin: 20px auto;
+    padding: 10px;
+}
