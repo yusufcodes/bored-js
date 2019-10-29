@@ -1,14 +1,25 @@
 body
 {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Merienda', cursive;
     text-align: center;
+    background-color: rgba(239,108,0 ,1);
+    color: #ffffff;
+    padding: 200px;
 }
 
 /* #idea-label, #idea-txt {
     display: inline;
 } */
 
+h1, .lead{
+    font-family: 'Merienda', cursive;
+}
 
+.badge{
+    font-size: 13px;
+    padding: 5px 10px;
+    margin: 10px 0;
+}
 
 #find-btn {
     display: block;
